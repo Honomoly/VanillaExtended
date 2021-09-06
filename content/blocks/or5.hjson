@@ -4,7 +4,7 @@
 	"description": "Refine oil into Naptha and leave left over to be process further in stage 5",
 	"liquidCapacity": 50,
 	"outputItem": {"item": "stage5", "amount": 1},
-   "outputLiquid": {"liquid": "Nap", "amount": 10.0},
+   "outputLiquid": {"liquid": "nap", "amount": 10.0},
 	"size": 2,
 	"hasPower": true,
 	"hasLiquids": true,
@@ -25,7 +25,7 @@
 		{ "item": "copper", "amount": 10 }
 	],
 	"category": "crafting",
-	"research": "OR4",
+	"research": "or4",
 	"idleSound": "respawning",
 	"idleSoundVolume": 0.5
 }
