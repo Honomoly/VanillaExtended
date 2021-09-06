@@ -13,7 +13,7 @@
 	"consumes": {
 		"power": 1.7
 		"liquid": {
-			"liquid": "Gas",
+			"liquid": "gas",
 			"amount": 1.0
 		}
 	},
