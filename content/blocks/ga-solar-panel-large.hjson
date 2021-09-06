@@ -11,5 +11,5 @@
 		{ "item": "graphene", "amount": 12 }
 	],
 	"category": "power",
-	"research": "GA-solar-panel"
+	"research": "ga-solar-panel"
 }
