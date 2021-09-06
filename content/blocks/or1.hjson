@@ -4,7 +4,7 @@
 	"description": "Refine oil into Heavy fuel oil and leave left over to be process further in stage 2",
 	"liquidCapacity": 50,
 	"outputItem": {"item": "stage1", "amount": 1},
-   "outputLiquid": {"liquid": "HFO", "amount": 10.0},
+   "outputLiquid": {"liquid": "hfo", "amount": 10.0},
 	"size": 2,
 	"hasPower": true,
 	"hasLiquids": true,
