@@ -4,7 +4,7 @@
 	"description": "Refine oil into Kerosene and leave left over to be process further in stage 5",
 	"liquidCapacity": 50,
 	"outputItem": {"item": "stage4", "amount": 1},
-   "outputLiquid": {"liquid": "Kero", "amount": 10.0},
+   "outputLiquid": {"liquid": "kero", "amount": 10.0},
 	"size": 2,
 	"hasPower": true,
 	"hasLiquids": true,
@@ -25,7 +25,7 @@
 		{ "item": "copper", "amount": 10 }
 	],
 	"category": "crafting",
-	"research": "OR3",
+	"research": "or3",
 	"idleSound": "respawning",
 	"idleSoundVolume": 0.5
 }
