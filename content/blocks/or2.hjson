@@ -4,7 +4,7 @@
 	"description": "Refine oil into Gas oil and leave left over to be process further in stage 3",
 	"liquidCapacity": 50,
 	"outputItem": {"item": "stage2", "amount": 1},
-   "outputLiquid": {"liquid": "GO", "amount": 10.0},
+   "outputLiquid": {"liquid": "go", "amount": 10.0},
 	"size": 2,
 	"hasPower": true,
 	"hasLiquids": true,
@@ -25,7 +25,7 @@
 		{ "item": "copper", "amount": 10 }
 	],
 	"category": "crafting",
-	"research": "OR1",
+	"research": "or1",
 	"idleSound": "respawning",
 	"idleSoundVolume": 0.5
 }
