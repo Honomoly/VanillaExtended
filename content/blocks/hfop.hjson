@@ -12,7 +12,7 @@
 	"consumes": {
 		"power": 1.7
 		"liquid": {
-			"liquid": "HFO",
+			"liquid": "hfo",
 			"amount": 0.25
 		}
 	},
@@ -23,7 +23,7 @@
 		{ "item": "copper", "amount": 20 }
 	],
 	"category": "crafting",
-	"research": "OR1",
+	"research": "or1",
 	"idleSound": "respawning",
 	"idleSoundVolume": 0.5
 }
