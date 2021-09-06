@@ -2,7 +2,7 @@
 	"type": "GenericSmelter",
 	"name": "Oil refiner stage 7",
 	"description": "Refine oil into Kerosene and leave left over to be process further in stage 5",
-	"outputItem": {"item": "LPG", "amount": 1},
+	"outputItem": {"item": "lpg", "amount": 1},
 	"size": 2,
 	"hasPower": true,
 	"hasLiquids": true,
