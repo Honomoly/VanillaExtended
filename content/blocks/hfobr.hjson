@@ -2,7 +2,7 @@
 	"type": "GenericSmelter",
 	"name": "Heavy fuel oil bottling",
 	"description": "Put Heavy fuel oil into bottle for faster transport, use and crafting",
-	"outputItem": {"item": "HFOB", "amount": 1},
+	"outputItem": {"item": "hfob", "amount": 1},
 	"size": 1,
 	"liquidCapacity": 5,
 	"itemCapacity": 10,
@@ -13,7 +13,7 @@
 	"consumes": {
 		"power": 1.7
 		"liquid": {
-			"liquid": "HFO",
+			"liquid": "hfo",
 			"amount": 1.0
 		}
 	},
@@ -22,7 +22,7 @@
 		{ "item": "copper", "amount": 10 }
 	],
 	"category": "crafting",
-	"research": "OR1",
+	"research": "or1",
 	"idleSound": "respawning",
 	"idleSoundVolume": 0.5
 }
