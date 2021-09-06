@@ -32,7 +32,7 @@
         "collidesAir": true, 
         "collides": true, 
         "keepVelocity": true,
-			"sprite": "[#25f12f]vanilla-extended[]-v1"
+			"sprite": "vanilla-extended-v1"
 		}
 	},
 	"requirements": [
