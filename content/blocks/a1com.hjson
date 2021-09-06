@@ -23,7 +23,7 @@
 		{ "item": "lead", "amount": 80 },
 	],
 	"category": "crafting",
-	"research": "KeroBr",
+	"research": "kerobr",
 	"idleSound": "respawning",
 	"idleSoundVolume": 0.5
 }
