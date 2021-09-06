@@ -15,7 +15,7 @@
 			"items": [
 				{ "item": "blast-compound", "amount": 10 },
 				{ "item": "copper", "amount": 20 },
-				{ "item": "KeroB", "amount": 5 },
+				{ "item": "kerob", "amount": 5 },
 			]
 		}
 	},
