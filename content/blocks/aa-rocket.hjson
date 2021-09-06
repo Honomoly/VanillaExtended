@@ -38,7 +38,7 @@
         "collidesGround": false, 
         "collides": true, 
         "keepVelocity": true,
-        "sprite": "[#25f12f]vanilla-extended[]-aa"
+        "sprite": "vanilla-extended-aa"
 		}
 	},
 	"requirements": [
