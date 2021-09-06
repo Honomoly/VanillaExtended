@@ -3,7 +3,7 @@
 	"name": "Naphtha Mixer",
 	"description": "Mix Heavy fuel oil and Gas oil together to create Naphtha",
 	"itemCapacity": 10,
-	"outputItem": {"item": "NapB", "amount": 2},
+	"outputItem": {"item": "napb", "amount": 2},
 	"size": 3,
 	"hasPower": true,
 	"hasItems": true,
@@ -13,8 +13,8 @@
 		"power": 0.7,
 		"items": {
 			"items": [
-				{ "item": "HFOB", "amount": 1 },
-				{ "item": "GOB", "amount": 1 }
+				{ "item": "hfob", "amount": 1 },
+				{ "item": "gob", "amount": 1 }
 			]
 		}
 	},
@@ -23,7 +23,7 @@
 		{ "item": "lead", "amount": 80 },
 	],
 	"category": "crafting",
-	"research": "GOBr",
+	"research": "gobr",
 	"idleSound": "respawning",
 	"idleSoundVolume": 0.5
 }
