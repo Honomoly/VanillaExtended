@@ -22,7 +22,7 @@
 		{ "item": "copper", "amount": 10 }
 	],
 	"category": "crafting",
-	"research": "OR2",
+	"research": "or2",
 	"idleSound": "respawning",
 	"idleSoundVolume": 0.5
 }
