@@ -4,7 +4,7 @@
 	"description": "Refine oil into Diesel and leave left over to be process further in stage 4",
 	"liquidCapacity": 50,
 	"outputItem": {"item": "stage3", "amount": 1},
-   "outputLiquid": {"liquid": "Diesel", "amount": 10.0},
+   "outputLiquid": {"liquid": "diesel", "amount": 10.0},
 	"size": 2,
 	"hasPower": true,
 	"hasLiquids": true,
@@ -25,7 +25,7 @@
 		{ "item": "copper", "amount": 10 }
 	],
 	"category": "crafting",
-	"research": "OR2",
+	"research": "or2",
 	"idleSound": "respawning",
 	"idleSoundVolume": 0.5
 }
